@@ -1,4 +1,4 @@
-# L'Architecture AWS mis au point pour CloudFormation
+# L'Architecture AWS mis au point pour l'examen
 
 ## Composants
 
